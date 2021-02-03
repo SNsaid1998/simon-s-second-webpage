@@ -1,6 +1,6 @@
  require(["esri/Map", "esri/views/MapView"], function (Map, MapView) {
         var map = new Map({
-          basemap: "dark-grey"
+          basemap: "dark-gray"
         });
 
         var view = new MapView({
