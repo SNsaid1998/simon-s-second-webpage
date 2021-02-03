@@ -7,6 +7,6 @@
           container: "viewDiv",
           map: map,
           zoom: 10,
-          center: [0, 38.85] // longitude, latitude
+          center: [-90, 38.85] // longitude, latitude
         });
       });
